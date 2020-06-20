@@ -1,2 +1,7 @@
+from tkinter import *
 
-print("HEllo")
+for i in range(6):
+	print(i)
+
+
+
